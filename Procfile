@@ -1,1 +1,1 @@
-web: chainlit run product_suggester.py --port $PORT --host 0.0.0.0
+web: chainlit run product_suggester.py --host 0.0.0.0 --port $PORT --no-browser --watch
