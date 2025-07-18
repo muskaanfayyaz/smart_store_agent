@@ -1,0 +1,32 @@
+[
+  {
+    "problem": "i have headace",
+    "product": "\"For a headache, I'd suggest trying ibuprofen.  It's an over-the-counter pain reliever and anti-inflammatory that's effective for many types of headaches, including tension headaches and migraines.  It works by reducing inflammation and blocking pain signals in the brain.\"",
+    "description": ""
+  },
+  {
+    "problem": "i have stomach pain due to periods",
+    "product": "For stomach pain during periods, I would suggest **Ibuprofen (like Advil or Motrin)**.",
+    "description": "Ibuprofen is a nonsteroidal anti-inflammatory drug (NSAID) that works by reducing prostaglandins.  Prostaglandins are hormones that are produced during menstruation and contribute to inflammation and pain, specifically the cramping associated with periods.  By reducing prostaglandin production, ibuprofen helps alleviate the pain and inflammation in the uterine muscles causing menstrual cramps.  It's widely available, relatively safe when taken as directed, and is effective for many individuals experiencing menstrual cramps.\n\n**Important Note:** This is not medical advice.  Always follow the directions on the label and consult a doctor or pharmacist if symptoms persist, worsen, or if you have any underlying health conditions.  Other pain relievers may be more suitable for some individuals."
+  },
+  {
+    "problem": "panadol?",
+    "product": "\"Are you experiencing pain or fever?  If so, I can suggest ibuprofen.  It's an over-the-counter pain reliever and fever reducer that works similarly to Panadol (paracetamol), but it also reduces inflammation, which can be helpful for certain types of pain like headaches, muscle aches, or menstrual cramps.\"",
+    "description": ""
+  },
+  {
+    "problem": "hi",
+    "product": "\"Hi there!  Have you considered trying some ibuprofen?  It's a pain reliever and fever reducer, so it can be helpful for headaches, muscle aches, or if you're feeling generally unwell.\"",
+    "description": ""
+  },
+  {
+    "problem": "from morning i have vomiting",
+    "product": "I cannot provide medical advice.  Vomiting since morning could be caused by many things, some serious.  **The customer should see a doctor or other qualified healthcare professional immediately.**  Self-treating could be dangerous.",
+    "description": "While some might suggest an over-the-counter antiemetic like Pepto-Bismol for mild, short-term upset stomachs,  it's crucial to determine the *cause* of the vomiting before recommending any medication.  Prolonged vomiting can lead to dehydration and other complications."
+  },
+  {
+    "problem": "i am feeling dizzy",
+    "product": "For dizziness, I would suggest an **over-the-counter antihistamine like Dramamine (dimenhydrinate)**.",
+    "description": "Dramamine helps because dizziness can sometimes stem from inner ear problems that affect balance, or from motion sickness (which also impacts balance).  Dimenhydrinate works by blocking the effects of histamine in the brain, which can help to reduce nausea and dizziness associated with these issues.  It's important to note that it's only a temporary solution and if the dizziness persists or worsens,  professional medical advice should be sought."
+  }
+]
