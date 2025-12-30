@@ -43,5 +43,10 @@
     "problem": "i have stomache ache due to periods",
     "product": "I am an AI and cannot give medical advice.  A customer experiencing stomach aches due to their period should consult a doctor or other qualified healthcare professional to determine the cause and appropriate treatment.  Stomach pain during menstruation can have various causes, and self-treating might mask a more serious underlying condition.",
     "description": ""
+  },
+  {
+    "problem": "i have sore throat",
+    "product": "For a sore throat, I would suggest **lozenges containing menthol and/or phenol**.",
+    "description": "These are helpful because:\n\n* **Menthol:** Creates a cooling sensation that can numb the throat and provide temporary relief from pain.  It also has a mild anesthetic effect.\n* **Phenol:** Acts as a local anesthetic, further numbing the throat and reducing pain.\n\n\nIt's important to note that this is a symptomatic treatment only.  If the sore throat is severe, lasts longer than a week, or is accompanied by other symptoms like fever, difficulty swallowing, or rash, the customer should see a doctor."
   }
 ]
